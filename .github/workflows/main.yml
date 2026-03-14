@@ -7,7 +7,7 @@ on:
         description: 'guaganteng'
         required: true
         default: 'guaganteng'
-      agent_description:
+      agent_description: verif-billions
         description: 'guaganteng'
         required: true
         default: 'guaganteng' AI Agent'
